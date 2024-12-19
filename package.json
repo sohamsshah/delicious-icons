@@ -1,7 +1,7 @@
 {
   "name": "delicious-icons",
   "private": false,
-  "description": "A simple icons library in React",
+  "description": "Icons here are delicious",
   "version": "0.0.0",
   "type": "module",
   "main": "dist/index.umd.js",
