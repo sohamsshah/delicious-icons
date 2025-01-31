@@ -6,6 +6,7 @@ import dts from "vite-plugin-dts";
 // https://vite.dev/config/
 export default defineConfig({
   build: {
+    // a pull request
     //Specifies that the output of the build will be a library.
     lib: {
       //Defines the entry point for the library build. It resolves 
